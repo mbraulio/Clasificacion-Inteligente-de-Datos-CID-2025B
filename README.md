@@ -11,4 +11,4 @@ algorithms including:
 The notebooks explore model training, dataset processing and evaluation.
 
 Technologies:
-Python, NumPy, Scikit-learn
+Python, NumPy, Scikit-learn, Pandas
