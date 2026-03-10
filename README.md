@@ -1,14 +1,17 @@
-Machine Learning Experiments
+# Clasificación Inteligente de Datos
 
-This repository contains practical implementations of basic machine learning
-algorithms including:
+Este repositorio contiene implementaciones prácticas de algoritmos de Machine Learning
+desarrolladas como parte de experimentación y aprendizaje en modelos de clasificación y clustering.
+
+Algoritmos implementados:
 
 - Perceptron
-- K-Nearest Neighbors
+- K-Nearest Neighbors (KNN)
 - Logistic Regression
 - K-Means Clustering
 
-The notebooks explore model training, dataset processing and evaluation.
+Los notebooks exploran entrenamiento de modelos, procesamiento de datasets
+y evaluación de resultados.
 
-Technologies:
-Python, NumPy, Scikit-learn, Pandas
+Tecnologías utilizadas:
+Python, NumPy, Scikit-learn, Jupyter Notebook
